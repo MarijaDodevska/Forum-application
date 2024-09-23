@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  app:
+    image: forum_application:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:9090"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:h2:mem:testdb
+      SPRING_DATASOURCE_USERNAME: sa
+      SPRING_H2_CONSOLE_ENABLED: "true"
+      SPRING_H2_CONSOLE_PATH: /h2
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

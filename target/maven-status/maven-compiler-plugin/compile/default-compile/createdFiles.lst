@@ -1,0 +1,15 @@
+mk\ukim\finki\ForumApplication.class
+mk\ukim\finki\model\exceptions\InvalidForumUserIdException.class
+mk\ukim\finki\web\ForumUsersController.class
+mk\ukim\finki\repository\InterestRepository.class
+mk\ukim\finki\service\ForumUserService.class
+mk\ukim\finki\config\DataInitializer.class
+mk\ukim\finki\model\ForumUserType.class
+mk\ukim\finki\repository\ForumUserRepository.class
+mk\ukim\finki\model\ForumUser.class
+mk\ukim\finki\config\SecurityConfig.class
+mk\ukim\finki\service\InterestService.class
+mk\ukim\finki\service\impl\ForumUserServiceImpl.class
+mk\ukim\finki\model\exceptions\InvalidInterestIdException.class
+mk\ukim\finki\model\Interest.class
+mk\ukim\finki\service\impl\InterestServiceImpl.class

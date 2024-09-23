@@ -1,0 +1,15 @@
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\web\ForumUsersController.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\model\exceptions\InvalidForumUserIdException.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\repository\InterestRepository.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\service\impl\ForumUserServiceImpl.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\repository\ForumUserRepository.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\service\impl\InterestServiceImpl.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\model\exceptions\InvalidInterestIdException.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\model\ForumUser.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\model\Interest.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\config\SecurityConfig.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\ForumApplication.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\service\ForumUserService.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\model\ForumUserType.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\service\InterestService.java
+C:\Users\marij\Desktop\forum_application\src\main\java\mk\ukim\finki\config\DataInitializer.java
