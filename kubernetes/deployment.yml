@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: forum-app
+  namespace: forum-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: forum-app
+  template:
+    metadata:
+      labels:
+        app: forum-app
+    spec:
+      containers:
+        - name: forum-app
+          image: forum_application:latest
+          ports:
+            - containerPort: 9090
