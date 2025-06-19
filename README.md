@@ -33,10 +33,13 @@ Build and Run the application with Docker Compose:
 
 ## 4. CI pipeline with GithubActions:
 Setting Secret Variables:
+
 ![Image Alt Text](https://github.com/MarijaDodevska/Forum-application/blob/main/screenshots/secret%20variables.png)
 
 This pipeline will build a Docker image, run tests, and upload the Docker image to DockerHub when the code is pushed to the repository.
+
 ![Image Alt Text](https://github.com/MarijaDodevska/Forum-application/blob/main/screenshots/pipeline.png)
 
 Result of pipeline execution:
+
 ![Image Alt Text](https://github.com/MarijaDodevska/Forum-application/blob/main/screenshots/results.png)
