@@ -1,4 +1,4 @@
-# Devops
+# DevOps
 
 ## 1. Hosting a public git repository
 Using the following commands, a new git repository is initialized where all the files from the application are added in the first commit “First commit".
