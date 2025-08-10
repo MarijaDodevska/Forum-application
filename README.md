@@ -12,11 +12,6 @@ Using the following commands, a new git repository is initialized where all the 
 Dockerfile that defines how the application is built:
 ![Image Alt Text](https://github.com/MarijaDodevska/Forum-application/blob/main/screenshots/Dockerfile.png)
 
-Base Image: Select a base Docker image on which to build the application.
-Copy Code: Copy the application source code into the container.
-Install Dependencies: Run commands to install required libraries or dependencies.
-Set Configurations: Configure ports and change application parameters.
-
 Command to build the image:
 ![Image Alt Text](https://github.com/MarijaDodevska/Forum-application/blob/main/screenshots/Docker%20image.png)
 
