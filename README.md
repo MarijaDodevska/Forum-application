@@ -1,5 +1,7 @@
 # DevOps
 
+This is simple CRUD application for the purpose of the course **Continouos Integration and Delivery** at Faculty of Computer Science and Engineering. 
+
 ## 1. Hosting a public git repository
 Using the following commands, a new git repository is initialized where all the files from the application are added in the first commit “First commit".
 
